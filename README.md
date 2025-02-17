@@ -9,7 +9,7 @@
 - **Other:** REST APIs, Authentication (JWT, OAuth), Web Security, Performance Optimization  
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?babendev&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=babendev&show_icons=true&theme=radical)  
 
 ## 📌 Featured Projects  
 🔹 **[Project Name](https://github.com/babendev/project-repo)** – Short description of your project  
